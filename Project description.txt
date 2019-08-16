@@ -1,0 +1,32 @@
+--------------------------------------------navbar--------------------------------------------------
+1-fixed and collapsible Navbar with fontawesome icon and search input .
+----------------------------------------container Div with top points ----------------------------------------------
+2-carousel slide with three images and Indicators , carousel-control , carousel-caption , wow fadeInUp Jquery.
+3-features Div with wow rotateIn Jquery inside this div , we have 4 divs that has 4 fontawesome icons with Jquery 
+mouseover and mouseleave changes css color , wow fadeOutLef and fadeOutRight Jquery 
+(second from 4 divs will play Html5 sound using Jquery mouseover play and mouseleave stop).
+4-Gallery Div with 8 images that will decrease it's width and opacity when mouseover and
+ return to natural with mouseleave using css3 transition , wow bounceInUp Jquery .
+5-purchase and subscriber buttons with change the background-color when mouseover using Jquery and return
+to natural when mouse leave , using wow bounceIn Jquery
+6-pricing Table div that has 3 rounded div that change it's background-color to black when mouseover
+and return to natural when mouseleave using Jquery , using wow bounceInDown Jquery 
+and has 4 rounded  divs with other behaviours wow bounceInLeft Jquery.
+7-our team div has 3 top rounded-circle images with wow fadeInUp & bounceInDown & fadeInUp  jquery 
+and has 4 rounded images with fadeOutLeft & fadeOutRight wow Jquery
+8-contact div that contains 3 divs info and form for sending any message with bounceInDown Jquery and using modal
+9-WatchIt div that contains Html5 video with css3 shadow 
+10-email and subscriber buttons with change the background-color when mouseover using Jquery and return
+to natural when mouseleave , using wow bounceIn Jquery
+-------------------------------------------------------------------------------------------------------
+11-footer div with All Rights Reserved
+-------------------------------------------------------------------------------------------------------
+# notes
+* using flexbox css3 in my project either flex-direction row or column
+* using audio and video html5
+* using css , css3  
+* using wow animation jquery plugin
+* using bootstrap 4 responsive website
+* usnig fontawesome icons 
+* using Jquery
+* using images 
